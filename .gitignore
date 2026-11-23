@@ -1,0 +1,68 @@
+# Unity project - keep this file in the root of ProjetoGrau2_Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+/[Ee]xported[Oo]bj/
+/[Aa]ssets/[Aa]ddressables_[Tt]emp/
+/[Aa]ssets/[Ss]treaming[Aa]ssets/aa/
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# IDE, solution, generated data
+.vs/
+.vscode/
+.gradle/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.log
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Binary builds, packages and generated reports
+*.apk
+*.aab
+*.unitypackage
+*.obb
+*.keystore
+*.jks
+*.p12
+*.pfx
+
+# Secrets: review source tree for secrets before first commit
+.env
+.env.*
+!.env.example
+*.pem
+*credentials*.json
+*service-account*.json
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Keep Assets/**.meta and ProjectSettings/** versioned.
+# Do not ignore the geographically sourced StreamingAssets/Geography files.
