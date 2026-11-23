@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using ProjetoGrau2.AI;
 using ProjetoGrau2.World;
 
 namespace ProjetoGrau2.Police

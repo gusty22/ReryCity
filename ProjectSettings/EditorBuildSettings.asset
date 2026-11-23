@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - m_Path: Assets/Scenes/AraguariPilotCentroScene.unity
+    enabled: 1
+    guid: 30000000000000000000000000000006
+  - m_Path: Assets/Scenes/PhysicsTestScene.unity
+    enabled: 0
+    guid: 30000000000000000000000000000001
+  - m_Path: Assets/Scenes/UrbanTrafficTestScene.unity
+    enabled: 0
+    guid: 30000000000000000000000000000005
+  m_configObjects: {}

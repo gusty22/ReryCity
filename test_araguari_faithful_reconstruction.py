@@ -264,6 +264,26 @@ class TestAndroidBuildAutomationScript(unittest.TestCase):
         self.assertIn("m_GameObject: {fileID: 312}", scene_txt)
         self.assertIn("m_GameObject: {fileID: 313}", scene_txt)
 
+    def test_editor_build_settings_and_initial_scene(self):
+        build_settings_path = os.path.join(self.unity_root, "ProjectSettings", "EditorBuildSettings.asset")
+        self.assertTrue(os.path.isfile(build_settings_path), f"EditorBuildSettings.asset ausente: {build_settings_path}")
+        with open(build_settings_path, "r", encoding="utf-8") as f:
+            txt = f.read()
+        self.assertIn("Assets/Scenes/AraguariPilotCentroScene.unity", txt)
+        self.assertIn("enabled: 1", txt)
+        self.assertIn("guid: 30000000000000000000000000000006", txt)
+
+    def test_csharp_compilation_namespace_integrity(self):
+        hud_path = os.path.join(self.unity_root, "Assets", "Scripts", "UI", "MotorcycleHUD.cs")
+        with open(hud_path, "r", encoding="utf-8") as f:
+            hud_txt = f.read()
+        self.assertIn("using ProjetoGrau2.CameraControl;", hud_txt)
+
+        police_dispatch_path = os.path.join(self.unity_root, "Assets", "Scripts", "Police", "PoliceDispatchManager.cs")
+        with open(police_dispatch_path, "r", encoding="utf-8") as f:
+            police_txt = f.read()
+        self.assertIn("using ProjetoGrau2.AI;", police_txt)
+
 
 if __name__ == "__main__":
     unittest.main()
