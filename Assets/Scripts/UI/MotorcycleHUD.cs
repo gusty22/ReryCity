@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using ProjetoGrau2.Core;
 using ProjetoGrau2.Propulsion;
 using ProjetoGrau2.Physics;
-using ProjetoGrau2.Camera;
+using ProjetoGrau2.CameraControl;
 
 namespace ProjetoGrau2.UI
 {
