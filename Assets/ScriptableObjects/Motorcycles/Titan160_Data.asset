@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10000000000000000000000000000001, type: 3}
+  m_Name: Titan160_Data
+  m_EditorClassIdentifier: 
+  motorcycleName: Titan 160cc
+  category: Street
+  mass: 125
+  centerOfMassOffset: {x: 0, y: -0.15, z: 0.05}
+  inertiaTensorMultiplier: {x: 1.1, y: 1, z: 1.2}
+  balanceAngle: 60
+  liftEaseRange: 15
+  noTurnAngle: 52
+  crashAngle: 83
+  liftTorque: 420
+  brakeTorque: 550
+  gravityTorqueFactor: 1
+  damping: 2.5
+  balanceAssist: 0.45
+  balanceAssistRange: 6
+  selfSustainBlend: 0.35
+  throttleLiftFactor: 1.15
+  accelSmoothing: 0.12
+  recoverySpeed: 4.5
+  recoveryBlend: 0.8
+  counterSteer: 1
+  counterSteerPerLeanDegree: 0.4
+  curvaSuaveNoGrau: 1

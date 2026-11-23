@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10000000000000000000000000000052, type: 3}
+  m_Name: VehicleData_EconomyCar
+  m_EditorClassIdentifier: 
+  vehicleType: 1
+  categoryName: Carro Popular Hatch
+  mass: 980
+  airDrag: 0.08
+  angularDrag: 2.5
+  colliderSize: {x: 1.65, y: 1.45, z: 3.7}
+  colliderCenter: {x: 0, y: 0.7, z: 0}
+  wheelbase: 2.4
+  topSpeedKmh: 140
+  accelerationForce: 3000
+  brakeForce: 6000
+  reverseForce: 1200.0
+  maxReverseSpeedKmh: 20
+  maxSteerAngle: 35
+  steerSpeed: 90
+  highSpeedSteerScale: 0.5
+  isTwoWheeled: 0
+  maxLeanAngle: 0
+  leanSpeed: 45
+  baseSafetyDistance: 6.0
+  sensorForwardRange: 35

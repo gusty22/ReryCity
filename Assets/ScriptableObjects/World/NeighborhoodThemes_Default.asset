@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100000000000000000000000000000b8, type: 3}
+  m_Name: NeighborhoodThemes_Default
+  m_EditorClassIdentifier: 
+  themes:
+  - neighborhoodName: Centro
+    buildingDensity: 0.95
+    treeDensity: 2
+    dominantSidewalkType: PedraPortuguesa
+    commercialRatio: 0.85
+    averageBuildingFloors: 3.8
+    primaryAmbientColor: {r: 0.85, g: 0.82, b: 0.8, a: 1}
+  - neighborhoodName: Bosque
+    buildingDensity: 0.55
+    treeDensity: 12
+    dominantSidewalkType: Concreto
+    commercialRatio: 0.1
+    averageBuildingFloors: 1.3
+    primaryAmbientColor: {r: 0.88, g: 0.92, b: 0.85, a: 1}
+  - neighborhoodName: "Goi\xE1s"
+    buildingDensity: 0.8
+    treeDensity: 3
+    dominantSidewalkType: Concreto
+    commercialRatio: 0.5
+    averageBuildingFloors: 2
+    primaryAmbientColor: {r: 0.82, g: 0.78, b: 0.72, a: 1}
+  - neighborhoodName: Miranda
+    buildingDensity: 0.75
+    treeDensity: 5
+    dominantSidewalkType: Concreto
+    commercialRatio: 0.2
+    averageBuildingFloors: 1.4
+    primaryAmbientColor: {r: 0.9, g: 0.86, b: 0.82, a: 1}
+  - neighborhoodName: Amorim
+    buildingDensity: 0.7
+    treeDensity: 4
+    dominantSidewalkType: Concreto
+    commercialRatio: 0.25
+    averageBuildingFloors: 1.5
+    primaryAmbientColor: {r: 0.89, g: 0.85, b: 0.8, a: 1}
+  - neighborhoodName: Santa Helena
+    buildingDensity: 0.65
+    treeDensity: 6
+    dominantSidewalkType: Concreto
+    commercialRatio: 0.15
+    averageBuildingFloors: 1.2
+    primaryAmbientColor: {r: 0.91, g: 0.88, b: 0.84, a: 1}
+  - neighborhoodName: Sibipiruna
+    buildingDensity: 0.7
+    treeDensity: 5
+    dominantSidewalkType: Concreto
+    commercialRatio: 0.3
+    averageBuildingFloors: 1.6
+    primaryAmbientColor: {r: 0.87, g: 0.84, b: 0.79, a: 1}

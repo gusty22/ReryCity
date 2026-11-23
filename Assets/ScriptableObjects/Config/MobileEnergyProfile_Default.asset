@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100000000000000000000000000000ab, type: 3}
+  m_Name: MobileEnergyProfile_Default
+  m_EditorClassIdentifier: 
+  economico:
+    mode: 0
+    targetFrameRate: 30
+    lodBias: 0.7
+    vSyncCount: 0
+    shadowQuality: 0
+    shadowDistance: 25
+    limitSleepTimeout: 0
+  equilibrado:
+    mode: 1
+    targetFrameRate: 60
+    lodBias: 1
+    vSyncCount: 0
+    shadowQuality: 1
+    shadowDistance: 50
+    limitSleepTimeout: 1
+  altoDesempenho:
+    mode: 2
+    targetFrameRate: 60
+    lodBias: 1.5
+    vSyncCount: 0
+    shadowQuality: 2
+    shadowDistance: 80
+    limitSleepTimeout: 1

@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100000000000000000000000000000b1, type: 3}
+  m_Name: AraguariCityCatalog_Default
+  m_EditorClassIdentifier: 
+  cityName: Araguari
+  stateAbbreviation: MG
+  cartographySource: OpenStreetMap contributors (ODbL) / IBGE Malha Municipal
+  licenseNotice: "Cont\xE9m dados cartogr\xE1ficos p\xFAblicos sob Open Database License (ODbL)."
+  neighborhoods:
+  - neighborhoodName: Centro
+    zoneType: Comercial
+    centerLatitude: -18.6491
+    centerLongitude: -48.1903
+    approximateRadiusMeters: 600
+  - neighborhoodName: Bosque
+    zoneType: Residencial
+    centerLatitude: -18.653
+    centerLongitude: -48.196
+    approximateRadiusMeters: 800
+  - neighborhoodName: "Goi\xE1s"
+    zoneType: Misto
+    centerLatitude: -18.642
+    centerLongitude: -48.185
+    approximateRadiusMeters: 750
+  - neighborhoodName: Miranda
+    zoneType: Residencial
+    centerLatitude: -18.646
+    centerLongitude: -48.198
+    approximateRadiusMeters: 700
+  - neighborhoodName: Amorim
+    zoneType: Residencial
+    centerLatitude: -18.658
+    centerLongitude: -48.188
+    approximateRadiusMeters: 850
+  - neighborhoodName: Santa Helena
+    zoneType: Residencial
+    centerLatitude: -18.638
+    centerLongitude: -48.192
+    approximateRadiusMeters: 650
+  - neighborhoodName: Sibipiruna
+    zoneType: Misto
+    centerLatitude: -18.644
+    centerLongitude: -48.178
+    approximateRadiusMeters: 700
+  roadDefinitions:
+  - roadName: "Avenida Coronel Theodolino Pereira de Ara\xFAjo"
+    neighborhood: Centro
+    classification: 0
+    roadWidth: 16
+    laneCount: 4
+    isOneWay: 0
+    speedLimit: 60
+    startLat: -18.654
+    startLon: -48.1971
+    endLat: -18.6462
+    endLon: -48.1826
+  - roadName: Avenida Minas Gerais
+    neighborhood: Centro
+    classification: 0
+    roadWidth: 14
+    laneCount: 2
+    isOneWay: 0
+    speedLimit: 50
+    startLat: -18.655
+    startLon: -48.188
+    endLat: -18.642
+    endLon: -48.193
+  - roadName: Avenida Mato Grosso
+    neighborhood: Centro
+    classification: 1
+    roadWidth: 12
+    laneCount: 2
+    isOneWay: 0
+    speedLimit: 50
+    startLat: -18.648
+    startLon: -48.199
+    endLat: -18.651
+    endLon: -48.181
+  - roadName: "Rua Marciano Santos"
+    neighborhood: Centro
+    classification: 2
+    roadWidth: 10
+    laneCount: 1
+    isOneWay: 1
+    speedLimit: 40
+    startLat: -18.6498
+    startLon: -48.192
+    endLat: -18.6485
+    endLon: -48.188
+  - roadName: Rua Rui Barbosa
+    neighborhood: Centro
+    classification: 2
+    roadWidth: 10
+    laneCount: 1
+    isOneWay: 1
+    speedLimit: 40
+    startLat: -18.6505
+    startLon: -48.1895
+    endLat: -18.6475
+    endLon: -48.191
+  - roadName: "Avenida Batalh\xE3o Mau\xE1"
+    neighborhood: "Goi\xE1s"
+    classification: 0
+    roadWidth: 14
+    laneCount: 2
+    isOneWay: 0
+    speedLimit: 60
+    startLat: -18.642
+    startLon: -48.186
+    endLat: -18.634
+    endLon: -48.178
+  - roadName: "Rua Brasil Accioly"
+    neighborhood: Centro
+    classification: 1
+    roadWidth: 11
+    laneCount: 1
+    isOneWay: 1
+    speedLimit: 40
+    startLat: -18.652
+    startLon: -48.1915
+    endLat: -18.645
+    endLon: -48.189
+  poiDefinitions:
+  - poiId: POI_PracaManoelBonito
+    poiName: "Pra\xE7a Manoel Bonito"
+    neighborhood: Centro
+    category: 0
+    latitude: -18.6491
+    longitude: -48.1903
+    altitude: 970
+    radiusMeters: 45
+  - poiId: POI_PalacioDosFerroviarios
+    poiName: "Pal\xE1cio dos Ferrovi\xE1rios (Prefeitura / Antiga EFGO)"
+    neighborhood: "Goi\xE1s"
+    category: 1
+    latitude: -18.6475
+    longitude: -48.1873
+    altitude: 972
+    radiusMeters: 50
+  - poiId: POI_PracaDaMatriz
+    poiName: "Pra\xE7a da Matriz (Senhor Bom Jesus)"
+    neighborhood: Centro
+    category: 0
+    latitude: -18.6478
+    longitude: -48.1916
+    altitude: 971
+    radiusMeters: 40
+  - poiId: POI_BosqueJohnKennedy
+    poiName: Bosque John Kennedy (Reserva Urbana)
+    neighborhood: Bosque
+    category: 5
+    latitude: -18.6535
+    longitude: -48.198
+    altitude: 968
+    radiusMeters: 120
+  - poiId: POI_MercadoMunicipal
+    poiName: Mercado Municipal de Araguari
+    neighborhood: Centro
+    category: 4
+    latitude: -18.6502
+    longitude: -48.1886
+    altitude: 969
+    radiusMeters: 35

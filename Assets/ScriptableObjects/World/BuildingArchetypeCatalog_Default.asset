@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100000000000000000000000000000b7, type: 3}
+  m_Name: BuildingArchetypeCatalog_Default
+  m_EditorClassIdentifier: 
+  archetypes:
+  - archetypeName: ResidenciaPopular_Araguari
+    category: 0
+    minWidth: 8
+    maxWidth: 12
+    minDepth: 12
+    maxDepth: 18
+    floorHeight: 2.8
+    minFloors: 1
+    maxFloors: 1
+    typicalFacadeColor: {r: 0.85, g: 0.8, b: 0.7, a: 1}
+    hasWallFencing: 1
+    hasRoofTiles: 1
+  - archetypeName: CasaPadraoMedio_Araguari
+    category: 1
+    minWidth: 10
+    maxWidth: 16
+    minDepth: 15
+    maxDepth: 25
+    floorHeight: 3
+    minFloors: 1
+    maxFloors: 2
+    typicalFacadeColor: {r: 0.9, g: 0.88, b: 0.82, a: 1}
+    hasWallFencing: 1
+    hasRoofTiles: 1
+  - archetypeName: EdificioComercial_Centro
+    category: 3
+    minWidth: 12
+    maxWidth: 24
+    minDepth: 18
+    maxDepth: 30
+    floorHeight: 3.5
+    minFloors: 2
+    maxFloors: 5
+    typicalFacadeColor: {r: 0.75, g: 0.75, b: 0.8, a: 1}
+    hasWallFencing: 0
+    hasRoofTiles: 0
+  - archetypeName: OficinaPreparacao_Grau
+    category: 5
+    minWidth: 12
+    maxWidth: 20
+    minDepth: 20
+    maxDepth: 35
+    floorHeight: 4.5
+    minFloors: 1
+    maxFloors: 1
+    typicalFacadeColor: {r: 0.4, g: 0.4, b: 0.45, a: 1}
+    hasWallFencing: 1
+    hasRoofTiles: 0
+  - archetypeName: PostoCombustivel_Urbano
+    category: 6
+    minWidth: 20
+    maxWidth: 35
+    minDepth: 25
+    maxDepth: 40
+    floorHeight: 5
+    minFloors: 1
+    maxFloors: 1
+    typicalFacadeColor: {r: 0.95, g: 0.95, b: 0.95, a: 1}
+    hasWallFencing: 0
+    hasRoofTiles: 0
+  - archetypeName: MarcoHistorico_PalacioEFGO
+    category: 7
+    minWidth: 25
+    maxWidth: 45
+    minDepth: 25
+    maxDepth: 50
+    floorHeight: 4
+    minFloors: 2
+    maxFloors: 3
+    typicalFacadeColor: {r: 0.88, g: 0.78, b: 0.6, a: 1}
+    hasWallFencing: 0
+    hasRoofTiles: 1
