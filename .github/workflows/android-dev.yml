@@ -1,0 +1,75 @@
+name: ReryCity - Android Dev APK
+
+# Manual only. No push/PR triggers and no unattended cloud charges.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rerycity-android-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-galaxy-a54:
+    name: Static tests and Unity Android development build
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout Unity project
+        uses: actions/checkout@v4
+
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python test dependencies
+        run: python -m pip install --disable-pip-version-check PyYAML Shapely
+
+      - name: Run existing static/Python regression suites
+        run: python run_all_tests.py
+
+      - name: Verify Unity Personal license secrets before downloading the Editor
+        shell: bash
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        run: |
+          if [[ -z "$UNITY_LICENSE" || -z "$UNITY_EMAIL" || -z "$UNITY_PASSWORD" ]]; then
+            echo "::error::Unity CI licensing is not configured. Add UNITY_LICENSE, UNITY_EMAIL and UNITY_PASSWORD as repository Actions secrets, following the GameCI activation documentation."
+            exit 1
+          fi
+
+      - name: Compile Android APK in Unity
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: Android
+          unityVersion: auto
+          projectPath: .
+          buildMethod: ProjetoGrau2.EditorBuild.AndroidBuildAutomation.BuildDevApk
+          manualExit: true
+          versioning: None
+          androidExportType: androidPackage
+
+      - name: Verify generated APK
+        shell: bash
+        run: |
+          APK="Builds/Android/ReryCity_Araguari_Pilot_v0.1.apk"
+          test -s "$APK" || { echo "::error::APK not generated at expected path: $APK"; exit 1; }
+          sha256sum "$APK"
+
+      - name: Upload APK as downloadable workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ReryCity-Galaxy-A54-dev-APK
+          path: Builds/Android/ReryCity_Araguari_Pilot_v0.1.apk
+          if-no-files-found: error
+          retention-days: 3
