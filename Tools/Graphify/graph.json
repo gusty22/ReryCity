@@ -1,0 +1,3853 @@
+{
+  "nodes": [
+    {
+      "id": "PROJECT_INDEX",
+      "name": "PROJECT_INDEX",
+      "path": "PROJECT_INDEX.md",
+      "type": "indice_mestre",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_PROCEDURAL_ENVIRONMENT",
+        "FASE_6_GEO_PILOT_01_COMPLETED",
+        "SYS_URBAN_FURNITURE_LIGHTING",
+        "SYS_AUDIO",
+        "SYS_RIDER_EQUIPMENT",
+        "SYS_FACADE_DETAILS",
+        "SYS_TRAFFIC_NAVIGATION",
+        "SYS_RIDER",
+        "SYS_PLAYER_INTERACTION",
+        "MARCO_A_COMPILATION_STABILIZATION_REPORT",
+        "SYS_MAP_STREAMING_INTEGRATION",
+        "ADR_004_CLEAN_ROOM_RECONSTRUCTION",
+        "SYS_WORLD_EVENTS",
+        "SYS_PURSUIT_COORDINATION",
+        "RELATORIO_IL2CPP_COMPLETO",
+        "SYS_ECONOMY",
+        "GITHUB_MIGRATION_REPORT",
+        "CATALOGO_ASSETS_COMPLETO",
+        "SYS_INPUT",
+        "SYS_WORLD_STREAMING",
+        "RELATIONSHIP_INDEX",
+        "SYS_CITY_MATERIALS",
+        "SYS_TRAFFIC_OPTIMIZATION",
+        "SYS_WORLD",
+        "SYS_AUDIO_INTEGRATION",
+        "SYS_RIDER_ANIMATIONS",
+        "SYS_POLICE_HUD",
+        "SYS_WORLD_POPULATION",
+        "SYS_SIMULATED_REWARDS",
+        "GEO_PILOT_03_VALIDATION_REPORT",
+        "SYS_INTERACTIVE_ESTABLISHMENTS",
+        "SYS_IBGE_FAITHFUL_RECONSTRUCTION",
+        "SYS_URBAN_LOTS_BUILDINGS",
+        "SYS_CUSTOMIZATION",
+        "PLANO_DE_TESTES_FISICOS",
+        "SYS_MOBILE_CONTROLS",
+        "SYS_POLICE_DISPATCH",
+        "AGENT_START_HERE",
+        "SYS_RIDER_IK",
+        "SYS_POLICE_AI",
+        "SYS_STREET_INFRASTRUCTURE",
+        "SYS_POINT_OF_INTEREST",
+        "SYS_RIDER_RAGDOLL",
+        "SYS_AI_DRIVER",
+        "HANDOFF_PROTOCOL",
+        "CODING_STANDARDS",
+        "ADR_001_UNITY6_URP",
+        "PENDENCIAS_E_INFORMACOES_NAO_CONFIRMADAS",
+        "GRAPHIFY_GUIDE",
+        "CONTEXT_RETRIEVAL_PROTOCOL",
+        "SYS_TRAFFIC_SPAWNING",
+        "SYS_NEIGHBORHOOD_IDENTITY",
+        "SYS_REAL_ROAD_NETWORK",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS",
+        "SYS_WANTED_LEVEL",
+        "SYS_WORLD_OPTIMIZATION",
+        "SYS_GEOGRAPHIC_COORDINATES",
+        "ARAGUARI_GEO_AUDIT",
+        "SYS_ARAGUARI_GEOGRAPHY",
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "SYS_ENGINE",
+        "SYS_ROAD_BLOCKAGE",
+        "SYS_TRAFFIC_VIOLATIONS",
+        "SYS_PHONE_GPS",
+        "SYS_TRANSMISSION",
+        "SYS_OFFLINE_INITIALIZATION",
+        "SYS_MOTORCYCLE_HUD",
+        "SYS_UI",
+        "FASE_1_PHYSICS_AUDIT",
+        "SYS_ATHLON",
+        "SYS_MOTORCYCLE",
+        "SYS_WORKSHOP",
+        "SYS_ATHLON_MOBILE",
+        "SYS_ENERGY_MANAGEMENT",
+        "SYS_GAME_IDENTITY",
+        "SYS_INTERIOR_STREAMING",
+        "SYS_AI_SENSORS",
+        "SYS_AI_VEHICLES",
+        "SYS_GAME_LOADING",
+        "SYS_BRAKES",
+        "SYS_SUSPENSION",
+        "DOCUMENTATION_RULES",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS",
+        "GEO_PILOT_02_VALIDATION_REPORT",
+        "SYS_CAMERA",
+        "FORMULAS_FISICA_MOTOS",
+        "SYS_SAVE_SYSTEM",
+        "SYS_POLICE_PURSUIT",
+        "SYS_MISSIONS",
+        "SYS_WHEELIE"
+      ],
+      "content_length": 10520
+    },
+    {
+      "id": "README",
+      "name": "README",
+      "path": "README.md",
+      "type": "introducao",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "GRAPHIFY_GUIDE",
+        "SYSTEM_ARCHITECTURE",
+        "CONTEXT_RETRIEVAL_PROTOCOL",
+        "RELATIONSHIP_INDEX",
+        "PROJECT_INDEX",
+        "AGENT_START_HERE"
+      ],
+      "content_length": 1153
+    },
+    {
+      "id": "GLOSSARY",
+      "name": "GLOSSARY",
+      "path": "00_PROJECT/GLOSSARY.md",
+      "type": "glossario",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1696
+    },
+    {
+      "id": "PENDENCIAS_E_INFORMACOES_NAO_CONFIRMADAS",
+      "name": "PENDENCIAS_E_INFORMACOES_NAO_CONFIRMADAS",
+      "path": "00_PROJECT/PENDENCIAS_E_INFORMACOES_NAO_CONFIRMADAS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2880
+    },
+    {
+      "id": "PROJECT_OVERVIEW",
+      "name": "PROJECT_OVERVIEW",
+      "path": "00_PROJECT/PROJECT_OVERVIEW.md",
+      "type": "visao_geral",
+      "system": "",
+      "status": "ESPECIFICADO",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1461
+    },
+    {
+      "id": "PROJECT_RULES",
+      "name": "PROJECT_RULES",
+      "path": "00_PROJECT/PROJECT_RULES.md",
+      "type": "regras_projeto",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "PROJECT_INDEX"
+      ],
+      "content_length": 1183
+    },
+    {
+      "id": "ARQUITETURA_NOVA_IMPLEMENTACAO",
+      "name": "ARQUITETURA_NOVA_IMPLEMENTACAO",
+      "path": "01_ARCHITECTURE/ARQUITETURA_NOVA_IMPLEMENTACAO.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 6512
+    },
+    {
+      "id": "DOCUMENTACAO_ARQUITETURA_JOGO",
+      "name": "DOCUMENTACAO_ARQUITETURA_JOGO",
+      "path": "01_ARCHITECTURE/DOCUMENTACAO_ARQUITETURA_JOGO.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 14813
+    },
+    {
+      "id": "SYSTEM_ARCHITECTURE",
+      "name": "SYSTEM_ARCHITECTURE",
+      "path": "01_ARCHITECTURE/SYSTEM_ARCHITECTURE.md",
+      "type": "arquitetura",
+      "system": "",
+      "status": "ESPECIFICADO",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2057
+    },
+    {
+      "id": "ARAGUARI_GEO_AUDIT",
+      "name": "ARAGUARI_GEO_AUDIT",
+      "path": "05_TESTING/ARAGUARI_GEO_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 12837
+    },
+    {
+      "id": "FASE_1_PHYSICS_AUDIT",
+      "name": "FASE_1_PHYSICS_AUDIT",
+      "path": "05_TESTING/FASE_1_PHYSICS_AUDIT.md",
+      "type": "relatorio_auditoria",
+      "system": "",
+      "status": "AUDITADO_COM_CORRECOES",
+      "dependencies": [
+        "SYS_WHEELIE",
+        "SYS_BRAKES",
+        "SYS_SUSPENSION",
+        "FORMULAS_FISICA_MOTOS",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS",
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "ADR_004_CLEAN_ROOM_RECONSTRUCTION"
+      ],
+      "wikilinks": [
+        "SYS_SUSPENSION"
+      ],
+      "content_length": 10662
+    },
+    {
+      "id": "FASE_5_10_PRE_AUDIT",
+      "name": "FASE_5_10_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_10_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4248
+    },
+    {
+      "id": "FASE_5_11_PRE_AUDIT",
+      "name": "FASE_5_11_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_11_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4146
+    },
+    {
+      "id": "FASE_5_12_PRE_AUDIT",
+      "name": "FASE_5_12_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_12_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3815
+    },
+    {
+      "id": "FASE_5_2_PRE_AUDIT",
+      "name": "FASE_5_2_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_2_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 7373
+    },
+    {
+      "id": "FASE_5_3_PRE_AUDIT",
+      "name": "FASE_5_3_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_3_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4633
+    },
+    {
+      "id": "FASE_5_4_PRE_AUDIT",
+      "name": "FASE_5_4_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_4_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3794
+    },
+    {
+      "id": "FASE_5_5_PRE_AUDIT",
+      "name": "FASE_5_5_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_5_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4519
+    },
+    {
+      "id": "FASE_5_6_PRE_AUDIT",
+      "name": "FASE_5_6_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_6_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5891
+    },
+    {
+      "id": "FASE_5_7_PRE_AUDIT",
+      "name": "FASE_5_7_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_7_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5993
+    },
+    {
+      "id": "FASE_5_8_PRE_AUDIT",
+      "name": "FASE_5_8_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_8_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4343
+    },
+    {
+      "id": "FASE_5_9_PRE_AUDIT",
+      "name": "FASE_5_9_PRE_AUDIT",
+      "path": "05_TESTING/FASE_5_9_PRE_AUDIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5780
+    },
+    {
+      "id": "FASE_5_PRE_AUDIT_REPORT",
+      "name": "FASE_5_PRE_AUDIT_REPORT",
+      "path": "05_TESTING/FASE_5_PRE_AUDIT_REPORT.md",
+      "type": "relatorio_auditoria_transicao",
+      "system": "",
+      "status": "AUDITADO_E_APROVADO",
+      "dependencies": [
+        "PROJECT_INDEX",
+        "SYS_WHEELIE",
+        "SYS_ENGINE",
+        "SYS_TRANSMISSION",
+        "SYS_CAMERA",
+        "SYS_RIDER",
+        "ADR_001_UNITY6_URP",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS",
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "ADR_004_CLEAN_ROOM_RECONSTRUCTION"
+      ],
+      "wikilinks": [],
+      "content_length": 8839
+    },
+    {
+      "id": "GEO_PILOT_02_VALIDATION_REPORT",
+      "name": "GEO_PILOT_02_VALIDATION_REPORT",
+      "path": "05_TESTING/GEO_PILOT_02_VALIDATION_REPORT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 9653
+    },
+    {
+      "id": "GEO_PILOT_03_VALIDATION_REPORT",
+      "name": "GEO_PILOT_03_VALIDATION_REPORT",
+      "path": "05_TESTING/GEO_PILOT_03_VALIDATION_REPORT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 14202
+    },
+    {
+      "id": "GITHUB_MIGRATION_REPORT",
+      "name": "GITHUB_MIGRATION_REPORT",
+      "path": "05_TESTING/GITHUB_MIGRATION_REPORT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 7228
+    },
+    {
+      "id": "MARCO_A_COMPILATION_STABILIZATION_REPORT",
+      "name": "MARCO_A_COMPILATION_STABILIZATION_REPORT",
+      "path": "05_TESTING/MARCO_A_COMPILATION_STABILIZATION_REPORT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 7509
+    },
+    {
+      "id": "PLANO_DE_TESTES_FISICOS",
+      "name": "PLANO_DE_TESTES_FISICOS",
+      "path": "05_TESTING/PLANO_DE_TESTES_FISICOS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4052
+    },
+    {
+      "id": "ETAPA_5_1_COMPLETED",
+      "name": "ETAPA_5_1_COMPLETED",
+      "path": "07_TASKS/ETAPA_5_1_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3294
+    },
+    {
+      "id": "ETAPA_5_2_COMPLETED",
+      "name": "ETAPA_5_2_COMPLETED",
+      "path": "07_TASKS/ETAPA_5_2_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3668
+    },
+    {
+      "id": "FASE_1_COMPLETED",
+      "name": "FASE_1_COMPLETED",
+      "path": "07_TASKS/FASE_1_COMPLETED.md",
+      "type": "tarefa",
+      "system": "",
+      "status": "CONCLUIDA",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2114
+    },
+    {
+      "id": "FASE_2_COMPLETED",
+      "name": "FASE_2_COMPLETED",
+      "path": "07_TASKS/FASE_2_COMPLETED.md",
+      "type": "tarefa",
+      "system": "",
+      "status": "CONCLUIDA",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2438
+    },
+    {
+      "id": "FASE_3_COMPLETED",
+      "name": "FASE_3_COMPLETED",
+      "path": "07_TASKS/FASE_3_COMPLETED.md",
+      "type": "tarefa",
+      "system": "",
+      "status": "CONCLUIDA",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1662
+    },
+    {
+      "id": "FASE_4_COMPLETED",
+      "name": "FASE_4_COMPLETED",
+      "path": "07_TASKS/FASE_4_COMPLETED.md",
+      "type": "tarefa",
+      "system": "",
+      "status": "CONCLUIDA",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1762
+    },
+    {
+      "id": "FASE_5_10_COMPLETED",
+      "name": "FASE_5_10_COMPLETED",
+      "path": "07_TASKS/FASE_5_10_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3970
+    },
+    {
+      "id": "FASE_5_11_COMPLETED",
+      "name": "FASE_5_11_COMPLETED",
+      "path": "07_TASKS/FASE_5_11_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3925
+    },
+    {
+      "id": "FASE_5_12_COMPLETED",
+      "name": "FASE_5_12_COMPLETED",
+      "path": "07_TASKS/FASE_5_12_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4675
+    },
+    {
+      "id": "FASE_5_3_COMPLETED",
+      "name": "FASE_5_3_COMPLETED",
+      "path": "07_TASKS/FASE_5_3_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2723
+    },
+    {
+      "id": "FASE_5_4_COMPLETED",
+      "name": "FASE_5_4_COMPLETED",
+      "path": "07_TASKS/FASE_5_4_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4653
+    },
+    {
+      "id": "FASE_5_5_COMPLETED",
+      "name": "FASE_5_5_COMPLETED",
+      "path": "07_TASKS/FASE_5_5_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3539
+    },
+    {
+      "id": "FASE_5_6_COMPLETED",
+      "name": "FASE_5_6_COMPLETED",
+      "path": "07_TASKS/FASE_5_6_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 3814
+    },
+    {
+      "id": "FASE_5_7_COMPLETED",
+      "name": "FASE_5_7_COMPLETED",
+      "path": "07_TASKS/FASE_5_7_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5223
+    },
+    {
+      "id": "FASE_5_8_COMPLETED",
+      "name": "FASE_5_8_COMPLETED",
+      "path": "07_TASKS/FASE_5_8_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4349
+    },
+    {
+      "id": "FASE_5_9_COMPLETED",
+      "name": "FASE_5_9_COMPLETED",
+      "path": "07_TASKS/FASE_5_9_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4096
+    },
+    {
+      "id": "FASE_6_GEO_PILOT_01_COMPLETED",
+      "name": "FASE_6_GEO_PILOT_01_COMPLETED",
+      "path": "07_TASKS/FASE_6_GEO_PILOT_01_COMPLETED.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 6451
+    },
+    {
+      "id": "CHANGELOG",
+      "name": "CHANGELOG",
+      "path": "08_CHANGELOG/CHANGELOG.md",
+      "type": "historico",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 28995
+    },
+    {
+      "id": "AGENT_START_HERE",
+      "name": "AGENT_START_HERE",
+      "path": "09_AGENT_CONTEXT/AGENT_START_HERE.md",
+      "type": "instrucao_agente",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "RELATIONSHIP_INDEX",
+        "CONTEXT_RETRIEVAL_PROTOCOL",
+        "FORMULAS_FISICA_MOTOS",
+        "PROJECT_INDEX",
+        "SYS_SUSPENSION",
+        "DOCUMENTATION_RULES",
+        "HANDOFF_PROTOCOL",
+        "CODING_STANDARDS"
+      ],
+      "content_length": 3064
+    },
+    {
+      "id": "CODING_STANDARDS",
+      "name": "CODING_STANDARDS",
+      "path": "09_AGENT_CONTEXT/CODING_STANDARDS.md",
+      "type": "padrao_engenharia",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2295
+    },
+    {
+      "id": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "name": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "path": "09_AGENT_CONTEXT/CONTEXT_RETRIEVAL_PROTOCOL.md",
+      "type": "protocolo_obrigatorio",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "RELATIONSHIP_INDEX",
+        "AGENT_START_HERE",
+        "CODING_STANDARDS",
+        "PROJECT_INDEX"
+      ],
+      "content_length": 3876
+    },
+    {
+      "id": "DOCUMENTATION_RULES",
+      "name": "DOCUMENTATION_RULES",
+      "path": "09_AGENT_CONTEXT/DOCUMENTATION_RULES.md",
+      "type": "padrao_documentacao",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "NOME_DO_ARQUIVO",
+        "PLANO_DE_TESTES_FISICOS"
+      ],
+      "content_length": 2380
+    },
+    {
+      "id": "HANDOFF_PROTOCOL",
+      "name": "HANDOFF_PROTOCOL",
+      "path": "09_AGENT_CONTEXT/HANDOFF_PROTOCOL.md",
+      "type": "protocolo_obrigatorio",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1972
+    },
+    {
+      "id": "GRAPHIFY_GUIDE",
+      "name": "GRAPHIFY_GUIDE",
+      "path": "10_GRAPH/GRAPHIFY_GUIDE.md",
+      "type": "guia_ferramenta",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "RELATIONSHIP_INDEX",
+        "...",
+        "FORMULAS_FISICA_MOTOS",
+        "GRAPH_UPDATE_LOG",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS"
+      ],
+      "content_length": 2534
+    },
+    {
+      "id": "GRAPH_UPDATE_LOG",
+      "name": "GRAPH_UPDATE_LOG",
+      "path": "10_GRAPH/GRAPH_UPDATE_LOG.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 459
+    },
+    {
+      "id": "RELATIONSHIP_INDEX",
+      "name": "RELATIONSHIP_INDEX",
+      "path": "10_GRAPH/RELATIONSHIP_INDEX.md",
+      "type": "indice_relacional",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_PROCEDURAL_ENVIRONMENT",
+        "SYS_URBAN_FURNITURE_LIGHTING",
+        "ADR_002",
+        "SYS_AUDIO",
+        "SYS_RIDER_EQUIPMENT",
+        "Animator",
+        "SYS-01",
+        "SYS_FACADE_DETAILS",
+        "SYS_TRAFFIC_NAVIGATION",
+        "SYS_RIDER",
+        "SYS-07",
+        "TransmissionData",
+        "SYS_PLAYER_INTERACTION",
+        "SYS_MAP_STREAMING_INTEGRATION",
+        "SYS-04",
+        "SYS_WORLD_EVENTS",
+        "MotorAudioProfile",
+        "SYS_PURSUIT_COORDINATION",
+        "SYS_ECONOMY",
+        "Rigidbody",
+        "SYS_INPUT",
+        "SYS_WORLD_STREAMING",
+        "PartItemData",
+        "SYS_CITY_MATERIALS",
+        "SYS_TRAFFIC_OPTIMIZATION",
+        "SYS_WORLD",
+        "SYS_AUDIO_INTEGRATION",
+        "RiderEquipmentData",
+        "SYS_POLICE_HUD",
+        "SYS_RIDER_ANIMATIONS",
+        "SYS_POLICE",
+        "AthlonECUData",
+        "SYS_WORLD_POPULATION",
+        "SYS_SIMULATED_REWARDS",
+        "SYS_INTERACTIVE_ESTABLISHMENTS",
+        "SYS_SAVE",
+        "SYS_IBGE_FAITHFUL_RECONSTRUCTION",
+        "SYS_URBAN_LOTS_BUILDINGS",
+        "IMotorcycleInput",
+        "SYS_CUSTOMIZATION",
+        "SYS_MOBILE_CONTROLS",
+        "SYS_POLICE_DISPATCH",
+        "WheelCollider",
+        "RiderData",
+        "AGENT_START_HERE",
+        "SYS_RIDER_IK",
+        "FASE_5_PRE_AUDIT_REPORT",
+        "SYS_POLICE_AI",
+        "SYS_STREET_INFRASTRUCTURE",
+        "SYS_POINT_OF_INTEREST",
+        "SYS_RIDER_RAGDOLL",
+        "ANALISE_FISICA_MOTOS",
+        "SYS_AI_DRIVER",
+        "SYS_NPC",
+        "ADR_003",
+        "SYS-02",
+        "SYS_TRAFFIC_SPAWNING",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS",
+        "SYS_NEIGHBORHOOD_IDENTITY",
+        "SYS_REAL_ROAD_NETWORK",
+        "SYS-05",
+        "SYS_WANTED_LEVEL",
+        "SYS_WORLD_OPTIMIZATION",
+        "SYS_GEOGRAPHIC_COORDINATES",
+        "SYS_ARAGUARI_GEOGRAPHY",
+        "SYS_ENGINE",
+        "SYS_PLAYER",
+        "SYS_ROAD_BLOCKAGE",
+        "SYS_TRAFFIC_VIOLATIONS",
+        "SYS_PHONE_GPS",
+        "SYS_TRANSMISSION",
+        "SYS_OFFLINE_INITIALIZATION",
+        "SYS_MOTORCYCLE_HUD",
+        "SYS_UI",
+        "FASE_1_PHYSICS_AUDIT",
+        "SYS_ATHLON",
+        "MotorcycleData",
+        "SYS_MOTORCYCLE",
+        "SYS_WORKSHOP",
+        "SYS_ATHLON_MOBILE",
+        "SYS_ENERGY_MANAGEMENT",
+        "SYS_GAME_IDENTITY",
+        "SYS_INTERIOR_STREAMING",
+        "SYS_AI_SENSORS",
+        "SYS_AI_VEHICLES",
+        "EngineData",
+        "SYS_GAME_LOADING",
+        "SYS_BRAKES",
+        "CharacterJoint",
+        "SYS_SUSPENSION",
+        "SYS_CAMERA",
+        "SYS_GARAGE",
+        "FORMULAS_FISICA_MOTOS",
+        "SYS_SAVE_SYSTEM",
+        "PROJECT_INDEX",
+        "SYS_POLICE_PURSUIT",
+        "SYS_MISSIONS",
+        "ADR_004",
+        "SYS_WHEELIE"
+      ],
+      "content_length": 21957
+    },
+    {
+      "id": "ADR_001",
+      "name": "ADR_001_UNITY6_URP",
+      "path": "06_DECISIONS/ADR/ADR_001_UNITY6_URP.md",
+      "type": "adr",
+      "system": "",
+      "status": "APROVADO",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1450
+    },
+    {
+      "id": "ADR_002",
+      "name": "ADR_002_CLEAN_ARCHITECTURE_PHYSICS",
+      "path": "06_DECISIONS/ADR/ADR_002_CLEAN_ARCHITECTURE_PHYSICS.md",
+      "type": "adr",
+      "system": "",
+      "status": "APROVADO",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1292
+    },
+    {
+      "id": "ADR_003",
+      "name": "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+      "path": "06_DECISIONS/ADR/ADR_003_SCRIPTABLE_OBJECTS_DATA.md",
+      "type": "adr",
+      "system": "",
+      "status": "APROVADO",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1119
+    },
+    {
+      "id": "ADR_004",
+      "name": "ADR_004_CLEAN_ROOM_RECONSTRUCTION",
+      "path": "06_DECISIONS/ADR/ADR_004_CLEAN_ROOM_RECONSTRUCTION.md",
+      "type": "adr",
+      "system": "",
+      "status": "APROVADO",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1254
+    },
+    {
+      "id": "CATALOGO_ASSETS",
+      "name": "CATALOGO_ASSETS",
+      "path": "03_TECHNICAL_REFERENCE/ASSET_CATALOG/CATALOGO_ASSETS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4578
+    },
+    {
+      "id": "CATALOGO_ASSETS_COMPLETO",
+      "name": "CATALOGO_ASSETS_COMPLETO",
+      "path": "03_TECHNICAL_REFERENCE/ASSET_CATALOG/CATALOGO_ASSETS_COMPLETO.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5034
+    },
+    {
+      "id": "ANALISE_IL2CPP",
+      "name": "ANALISE_IL2CPP",
+      "path": "03_TECHNICAL_REFERENCE/IL2CPP_RESEARCH/ANALISE_IL2CPP.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 6810
+    },
+    {
+      "id": "MAPEAMENTO_CLASSES_METODOS",
+      "name": "MAPEAMENTO_CLASSES_METODOS",
+      "path": "03_TECHNICAL_REFERENCE/IL2CPP_RESEARCH/MAPEAMENTO_CLASSES_METODOS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 6131
+    },
+    {
+      "id": "RELATORIO_EXTRACAO_APK",
+      "name": "RELATORIO_EXTRACAO_APK",
+      "path": "03_TECHNICAL_REFERENCE/IL2CPP_RESEARCH/RELATORIO_EXTRACAO_APK.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4524
+    },
+    {
+      "id": "RELATORIO_IL2CPP_COMPLETO",
+      "name": "RELATORIO_IL2CPP_COMPLETO",
+      "path": "03_TECHNICAL_REFERENCE/IL2CPP_RESEARCH/RELATORIO_IL2CPP_COMPLETO.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5838
+    },
+    {
+      "id": "ANALISE_FISICA_MOTOS",
+      "name": "ANALISE_FISICA_MOTOS",
+      "path": "03_TECHNICAL_REFERENCE/PHYSICS_FORMULAS/ANALISE_FISICA_MOTOS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 6932
+    },
+    {
+      "id": "FORMULAS_FISICA_MOTOS",
+      "name": "FORMULAS_FISICA_MOTOS",
+      "path": "03_TECHNICAL_REFERENCE/PHYSICS_FORMULAS/FORMULAS_FISICA_MOTOS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 4287
+    },
+    {
+      "id": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "name": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "path": "03_TECHNICAL_REFERENCE/PHYSICS_FORMULAS/MAPEAMENTO_FISICA_MOTOCICLETAS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 5028
+    },
+    {
+      "id": "SYS_CITY_MATERIALS",
+      "name": "SYS_CITY_MATERIALS",
+      "path": "02_SYSTEMS/ARCHITECTURE/SYS_CITY_MATERIALS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1845
+    },
+    {
+      "id": "SYS_FACADE_DETAILS",
+      "name": "SYS_FACADE_DETAILS",
+      "path": "02_SYSTEMS/ARCHITECTURE/SYS_FACADE_DETAILS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1810
+    },
+    {
+      "id": "SYS_NEIGHBORHOOD_IDENTITY",
+      "name": "SYS_NEIGHBORHOOD_IDENTITY",
+      "path": "02_SYSTEMS/ARCHITECTURE/SYS_NEIGHBORHOOD_IDENTITY.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1724
+    },
+    {
+      "id": "SYS_STREET_INFRASTRUCTURE",
+      "name": "SYS_STREET_INFRASTRUCTURE",
+      "path": "02_SYSTEMS/ARCHITECTURE/SYS_STREET_INFRASTRUCTURE.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1743
+    },
+    {
+      "id": "SYS_URBAN_FURNITURE_LIGHTING",
+      "name": "SYS_URBAN_FURNITURE_LIGHTING",
+      "path": "02_SYSTEMS/ARCHITECTURE/SYS_URBAN_FURNITURE_LIGHTING.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2128
+    },
+    {
+      "id": "SYS_URBAN_LOTS_BUILDINGS",
+      "name": "SYS_URBAN_LOTS_BUILDINGS",
+      "path": "02_SYSTEMS/ARCHITECTURE/SYS_URBAN_LOTS_BUILDINGS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2357
+    },
+    {
+      "id": "SYS_ATHLON",
+      "name": "SYS_ATHLON",
+      "path": "02_SYSTEMS/ATHLON/SYS_ATHLON.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_2",
+      "dependencies": [
+        "SYS_ENGINE",
+        "SYS_AUDIO",
+        "AthlonECUData"
+      ],
+      "wikilinks": [
+        "FORMULAS_FISICA_MOTOS",
+        "ANALISE_FISICA_MOTOS"
+      ],
+      "content_length": 1438
+    },
+    {
+      "id": "SYS_ATHLON_MOBILE",
+      "name": "SYS_ATHLON_MOBILE",
+      "path": "02_SYSTEMS/ATHLON/SYS_ATHLON_MOBILE.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_3",
+      "dependencies": [
+        "SYS_ATHLON",
+        "SYS_INPUT"
+      ],
+      "wikilinks": [
+        "FORMULAS_FISICA_MOTOS",
+        "SYS_ATHLON"
+      ],
+      "content_length": 1518
+    },
+    {
+      "id": "SYS_AUDIO",
+      "name": "SYS_AUDIO",
+      "path": "02_SYSTEMS/AUDIO/SYS_AUDIO.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_2",
+      "dependencies": [
+        "SYS_ENGINE",
+        "SYS_TRANSMISSION",
+        "SYS_ATHLON",
+        "MotorAudioProfile"
+      ],
+      "wikilinks": [
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS"
+      ],
+      "content_length": 1260
+    },
+    {
+      "id": "SYS_AUDIO_INTEGRATION",
+      "name": "SYS_AUDIO_INTEGRATION",
+      "path": "02_SYSTEMS/AUDIO/SYS_AUDIO_INTEGRATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_AUDIO",
+        "SYS_ATHLON",
+        "SYS_ENGINE",
+        "SYS_POLICE_PURSUIT"
+      ],
+      "content_length": 1701
+    },
+    {
+      "id": "SYS_BRAKES",
+      "name": "SYS_BRAKES",
+      "path": "02_SYSTEMS/BRAKES/SYS_BRAKES.md",
+      "type": "sistema",
+      "system": "",
+      "status": "ESPECIFICADO",
+      "dependencies": [
+        "SYS-01",
+        "SYS-04",
+        "SYS-07",
+        "Rigidbody"
+      ],
+      "wikilinks": [
+        "FORMULAS_FISICA_MOTOS",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS",
+        "SYS_SUSPENSION",
+        "SYS_INPUT",
+        "SYS_WHEELIE",
+        "SYS_MOTORCYCLE"
+      ],
+      "content_length": 1939
+    },
+    {
+      "id": "SYS_CAMERA",
+      "name": "SYS_CAMERA",
+      "path": "02_SYSTEMS/CAMERA/SYS_CAMERA.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_3",
+      "dependencies": [
+        "SYS_MOTORCYCLE",
+        "SYS_WHEELIE",
+        "Rigidbody"
+      ],
+      "wikilinks": [
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS"
+      ],
+      "content_length": 1732
+    },
+    {
+      "id": "SYS_GAME_LOADING",
+      "name": "SYS_GAME_LOADING",
+      "path": "02_SYSTEMS/CORE/SYS_GAME_LOADING.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2029
+    },
+    {
+      "id": "SYS_OFFLINE_INITIALIZATION",
+      "name": "SYS_OFFLINE_INITIALIZATION",
+      "path": "02_SYSTEMS/CORE/SYS_OFFLINE_INITIALIZATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1773
+    },
+    {
+      "id": "SYS_CUSTOMIZATION",
+      "name": "SYS_CUSTOMIZATION",
+      "path": "02_SYSTEMS/CUSTOMIZATION/SYS_CUSTOMIZATION.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_3",
+      "dependencies": [
+        "SYS_WORKSHOP",
+        "SYS_ENGINE",
+        "SYS_TRANSMISSION",
+        "SYS_SUSPENSION"
+      ],
+      "wikilinks": [
+        "FORMULAS_FISICA_MOTOS",
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA"
+      ],
+      "content_length": 1703
+    },
+    {
+      "id": "SYS_ENGINE",
+      "name": "SYS_ENGINE",
+      "path": "02_SYSTEMS/ENGINE/SYS_ENGINE.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_2",
+      "dependencies": [
+        "SYS_TRANSMISSION",
+        "SYS_ATHLON",
+        "EngineData",
+        "Rigidbody"
+      ],
+      "wikilinks": [
+        "FORMULAS_FISICA_MOTOS",
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS"
+      ],
+      "content_length": 1781
+    },
+    {
+      "id": "SYS_ARAGUARI_GEOGRAPHY",
+      "name": "SYS_ARAGUARI_GEOGRAPHY",
+      "path": "02_SYSTEMS/GEOGRAPHY/SYS_ARAGUARI_GEOGRAPHY.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1880
+    },
+    {
+      "id": "SYS_GEOGRAPHIC_COORDINATES",
+      "name": "SYS_GEOGRAPHIC_COORDINATES",
+      "path": "02_SYSTEMS/GEOGRAPHY/SYS_GEOGRAPHIC_COORDINATES.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1991
+    },
+    {
+      "id": "SYS_IBGE_FAITHFUL_RECONSTRUCTION",
+      "name": "SYS_IBGE_FAITHFUL_RECONSTRUCTION",
+      "path": "02_SYSTEMS/GEOGRAPHY/SYS_IBGE_FAITHFUL_RECONSTRUCTION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2554
+    },
+    {
+      "id": "SYS_MAP_STREAMING_INTEGRATION",
+      "name": "SYS_MAP_STREAMING_INTEGRATION",
+      "path": "02_SYSTEMS/GEOGRAPHY/SYS_MAP_STREAMING_INTEGRATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1814
+    },
+    {
+      "id": "SYS_POINT_OF_INTEREST",
+      "name": "SYS_POINT_OF_INTEREST",
+      "path": "02_SYSTEMS/GEOGRAPHY/SYS_POINT_OF_INTEREST.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1539
+    },
+    {
+      "id": "SYS_REAL_ROAD_NETWORK",
+      "name": "SYS_REAL_ROAD_NETWORK",
+      "path": "02_SYSTEMS/GEOGRAPHY/SYS_REAL_ROAD_NETWORK.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2275
+    },
+    {
+      "id": "SYS_GAME_IDENTITY",
+      "name": "SYS_GAME_IDENTITY",
+      "path": "02_SYSTEMS/IDENTITY/SYS_GAME_IDENTITY.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2167
+    },
+    {
+      "id": "SYS_INTERACTIVE_ESTABLISHMENTS",
+      "name": "SYS_INTERACTIVE_ESTABLISHMENTS",
+      "path": "02_SYSTEMS/INTERACTION/SYS_INTERACTIVE_ESTABLISHMENTS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2538
+    },
+    {
+      "id": "SYS_INTERIOR_STREAMING",
+      "name": "SYS_INTERIOR_STREAMING",
+      "path": "02_SYSTEMS/INTERACTION/SYS_INTERIOR_STREAMING.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1584
+    },
+    {
+      "id": "SYS_PLAYER_INTERACTION",
+      "name": "SYS_PLAYER_INTERACTION",
+      "path": "02_SYSTEMS/INTERACTION/SYS_PLAYER_INTERACTION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2570
+    },
+    {
+      "id": "SYS_SIMULATED_REWARDS",
+      "name": "SYS_SIMULATED_REWARDS",
+      "path": "02_SYSTEMS/MONETIZATION/SYS_SIMULATED_REWARDS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2029
+    },
+    {
+      "id": "SYS_AI_DRIVER",
+      "name": "SYS_AI_DRIVER",
+      "path": "02_SYSTEMS/NPC/SYS_AI_DRIVER.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2401
+    },
+    {
+      "id": "SYS_AI_SENSORS",
+      "name": "SYS_AI_SENSORS",
+      "path": "02_SYSTEMS/NPC/SYS_AI_SENSORS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1816
+    },
+    {
+      "id": "SYS_AI_VEHICLES",
+      "name": "SYS_AI_VEHICLES",
+      "path": "02_SYSTEMS/NPC/SYS_AI_VEHICLES.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2513
+    },
+    {
+      "id": "SYS_ENERGY_MANAGEMENT",
+      "name": "SYS_ENERGY_MANAGEMENT",
+      "path": "02_SYSTEMS/PERFORMANCE/SYS_ENERGY_MANAGEMENT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2028
+    },
+    {
+      "id": "SYS_POLICE_AI",
+      "name": "SYS_POLICE_AI",
+      "path": "02_SYSTEMS/POLICE/SYS_POLICE_AI.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 2023
+    },
+    {
+      "id": "SYS_POLICE_DISPATCH",
+      "name": "SYS_POLICE_DISPATCH",
+      "path": "02_SYSTEMS/POLICE/SYS_POLICE_DISPATCH.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_POLICE_AI",
+        "SYS_WORLD_EVENTS",
+        "SYS_AI_VEHICLES",
+        "SYS_POLICE_PURSUIT"
+      ],
+      "content_length": 2948
+    },
+    {
+      "id": "SYS_POLICE_PURSUIT",
+      "name": "SYS_POLICE_PURSUIT",
+      "path": "02_SYSTEMS/POLICE/SYS_POLICE_PURSUIT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1621
+    },
+    {
+      "id": "SYS_PURSUIT_COORDINATION",
+      "name": "SYS_PURSUIT_COORDINATION",
+      "path": "02_SYSTEMS/POLICE/SYS_PURSUIT_COORDINATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_TRAFFIC_NAVIGATION",
+        "SYS_POLICE_AI",
+        "SYS_POLICE_DISPATCH",
+        "SYS_POLICE_PURSUIT",
+        "SYS_WANTED_LEVEL"
+      ],
+      "content_length": 4885
+    },
+    {
+      "id": "SYS_TRAFFIC_VIOLATIONS",
+      "name": "SYS_TRAFFIC_VIOLATIONS",
+      "path": "02_SYSTEMS/POLICE/SYS_TRAFFIC_VIOLATIONS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1328
+    },
+    {
+      "id": "SYS_WANTED_LEVEL",
+      "name": "SYS_WANTED_LEVEL",
+      "path": "02_SYSTEMS/POLICE/SYS_WANTED_LEVEL.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1450
+    },
+    {
+      "id": "SYS_RIDER",
+      "name": "SYS_RIDER",
+      "path": "02_SYSTEMS/RIDER/SYS_RIDER.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_4",
+      "dependencies": [
+        "SYS_MOTORCYCLE",
+        "SYS_WHEELIE",
+        "RiderData"
+      ],
+      "wikilinks": [
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS"
+      ],
+      "content_length": 1552
+    },
+    {
+      "id": "SYS_RIDER_ANIMATIONS",
+      "name": "SYS_RIDER_ANIMATIONS",
+      "path": "02_SYSTEMS/RIDER/SYS_RIDER_ANIMATIONS.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_4",
+      "dependencies": [
+        "SYS_RIDER",
+        "SYS_WHEELIE",
+        "RiderData"
+      ],
+      "wikilinks": [
+        "SYS_RIDER"
+      ],
+      "content_length": 1262
+    },
+    {
+      "id": "SYS_RIDER_EQUIPMENT",
+      "name": "SYS_RIDER_EQUIPMENT",
+      "path": "02_SYSTEMS/RIDER/SYS_RIDER_EQUIPMENT.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_4",
+      "dependencies": [
+        "SYS_RIDER",
+        "SYS_WORKSHOP",
+        "RiderEquipmentData"
+      ],
+      "wikilinks": [
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA"
+      ],
+      "content_length": 1240
+    },
+    {
+      "id": "SYS_RIDER_IK",
+      "name": "SYS_RIDER_IK",
+      "path": "02_SYSTEMS/RIDER/SYS_RIDER_IK.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_4",
+      "dependencies": [
+        "SYS_RIDER",
+        "Animator"
+      ],
+      "wikilinks": [
+        "SYS_RIDER"
+      ],
+      "content_length": 1149
+    },
+    {
+      "id": "SYS_RIDER_RAGDOLL",
+      "name": "SYS_RIDER_RAGDOLL",
+      "path": "02_SYSTEMS/RIDER/SYS_RIDER_RAGDOLL.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_4",
+      "dependencies": [
+        "SYS_RIDER",
+        "Rigidbody",
+        "CharacterJoint"
+      ],
+      "wikilinks": [
+        "SYS_WHEELIE",
+        "SYS_RIDER"
+      ],
+      "content_length": 1438
+    },
+    {
+      "id": "SYS_SAVE_SYSTEM",
+      "name": "SYS_SAVE_SYSTEM",
+      "path": "02_SYSTEMS/SAVE/SYS_SAVE_SYSTEM.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_3",
+      "dependencies": [
+        "SYS_WORKSHOP",
+        "SYS_ATHLON",
+        "SYS_ECONOMY"
+      ],
+      "wikilinks": [
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA"
+      ],
+      "content_length": 1210
+    },
+    {
+      "id": "SYS_SUSPENSION",
+      "name": "SYS_SUSPENSION",
+      "path": "02_SYSTEMS/SUSPENSION/SYS_SUSPENSION.md",
+      "type": "sistema",
+      "system": "",
+      "status": "ESPECIFICADO",
+      "dependencies": [
+        "SYS-07",
+        "Rigidbody",
+        "WheelCollider"
+      ],
+      "wikilinks": [
+        "SYS_CUSTOMIZATION",
+        "FORMULAS_FISICA_MOTOS",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS",
+        "SYS_WHEELIE",
+        "SYS_BRAKES"
+      ],
+      "content_length": 2517
+    },
+    {
+      "id": "SYS_ROAD_BLOCKAGE",
+      "name": "SYS_ROAD_BLOCKAGE",
+      "path": "02_SYSTEMS/TRAFFIC/SYS_ROAD_BLOCKAGE.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_WORLD_EVENTS",
+        "SYS_TRAFFIC_NAVIGATION",
+        "SYS_AI_VEHICLES"
+      ],
+      "content_length": 3015
+    },
+    {
+      "id": "SYS_TRAFFIC_NAVIGATION",
+      "name": "SYS_TRAFFIC_NAVIGATION",
+      "path": "02_SYSTEMS/TRAFFIC/SYS_TRAFFIC_NAVIGATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 6381
+    },
+    {
+      "id": "SYS_TRAFFIC_OPTIMIZATION",
+      "name": "SYS_TRAFFIC_OPTIMIZATION",
+      "path": "02_SYSTEMS/TRAFFIC/SYS_TRAFFIC_OPTIMIZATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1435
+    },
+    {
+      "id": "SYS_TRAFFIC_SPAWNING",
+      "name": "SYS_TRAFFIC_SPAWNING",
+      "path": "02_SYSTEMS/TRAFFIC/SYS_TRAFFIC_SPAWNING.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1189
+    },
+    {
+      "id": "SYS_TRANSMISSION",
+      "name": "SYS_TRANSMISSION",
+      "path": "02_SYSTEMS/TRANSMISSION/SYS_TRANSMISSION.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_2",
+      "dependencies": [
+        "SYS_ENGINE",
+        "TransmissionData",
+        "Rigidbody"
+      ],
+      "wikilinks": [
+        "FORMULAS_FISICA_MOTOS",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS"
+      ],
+      "content_length": 1389
+    },
+    {
+      "id": "SYS_MOBILE_CONTROLS",
+      "name": "SYS_MOBILE_CONTROLS",
+      "path": "02_SYSTEMS/UI/SYS_MOBILE_CONTROLS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_WHEELIE",
+        "SYS_INPUT",
+        "SYS_ATHLON_MOBILE",
+        "SYS_BRAKES"
+      ],
+      "content_length": 1729
+    },
+    {
+      "id": "SYS_MOTORCYCLE_HUD",
+      "name": "SYS_MOTORCYCLE_HUD",
+      "path": "02_SYSTEMS/UI/SYS_MOTORCYCLE_HUD.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_TRANSMISSION",
+        "SYS_ATHLON",
+        "SYS_WHEELIE",
+        "SYS_ENGINE",
+        "SYS_CAMERA"
+      ],
+      "content_length": 2792
+    },
+    {
+      "id": "SYS_POLICE_HUD",
+      "name": "SYS_POLICE_HUD",
+      "path": "02_SYSTEMS/UI/SYS_POLICE_HUD.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [],
+      "content_length": 1340
+    },
+    {
+      "id": "SYS_WHEELIE",
+      "name": "SYS_WHEELIE",
+      "path": "02_SYSTEMS/WHEELIE/SYS_WHEELIE.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_1",
+      "dependencies": [
+        "SYS-02",
+        "SYS-04",
+        "SYS-05",
+        "SYS-07",
+        "Rigidbody",
+        "MotorcycleData",
+        "IMotorcycleInput"
+      ],
+      "wikilinks": [
+        "ADR_004_CLEAN_ROOM_RECONSTRUCTION",
+        "FORMULAS_FISICA_MOTOS",
+        "MAPEAMENTO_FISICA_MOTOCICLETAS",
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA",
+        "ADR_002_CLEAN_ARCHITECTURE_PHYSICS",
+        "SYS_BRAKES"
+      ],
+      "content_length": 3242
+    },
+    {
+      "id": "SYS_WORKSHOP",
+      "name": "SYS_WORKSHOP",
+      "path": "02_SYSTEMS/WORKSHOP/SYS_WORKSHOP.md",
+      "type": "sistema",
+      "system": "",
+      "status": "IMPLEMENTADO_EM_FASE_3",
+      "dependencies": [
+        "SYS_CUSTOMIZATION",
+        "SYS_ENGINE",
+        "SYS_TRANSMISSION",
+        "PartItemData"
+      ],
+      "wikilinks": [
+        "ADR_003_SCRIPTABLE_OBJECTS_DATA"
+      ],
+      "content_length": 1436
+    },
+    {
+      "id": "SYS_PROCEDURAL_ENVIRONMENT",
+      "name": "SYS_PROCEDURAL_ENVIRONMENT",
+      "path": "02_SYSTEMS/WORLD/SYS_PROCEDURAL_ENVIRONMENT.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_WORLD_STREAMING",
+        "SYS_WORLD",
+        "SYS_TRAFFIC_NAVIGATION"
+      ],
+      "content_length": 1976
+    },
+    {
+      "id": "SYS_WORLD_EVENTS",
+      "name": "SYS_WORLD_EVENTS",
+      "path": "02_SYSTEMS/WORLD/SYS_WORLD_EVENTS.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_TRAFFIC_NAVIGATION",
+        "SYS_POLICE_DISPATCH",
+        "SYS_AI_VEHICLES",
+        "SYS_ROAD_BLOCKAGE"
+      ],
+      "content_length": 3768
+    },
+    {
+      "id": "SYS_WORLD_OPTIMIZATION",
+      "name": "SYS_WORLD_OPTIMIZATION",
+      "path": "02_SYSTEMS/WORLD/SYS_WORLD_OPTIMIZATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_WORLD_STREAMING",
+        "SYS_WORLD",
+        "SYS_TRAFFIC_OPTIMIZATION"
+      ],
+      "content_length": 2084
+    },
+    {
+      "id": "SYS_WORLD_POPULATION",
+      "name": "SYS_WORLD_POPULATION",
+      "path": "02_SYSTEMS/WORLD/SYS_WORLD_POPULATION.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_WORLD",
+        "SYS_TRAFFIC_NAVIGATION",
+        "SYS_AI_VEHICLES"
+      ],
+      "content_length": 1781
+    },
+    {
+      "id": "SYS_WORLD_STREAMING",
+      "name": "SYS_WORLD_STREAMING",
+      "path": "02_SYSTEMS/WORLD/SYS_WORLD_STREAMING.md",
+      "type": "documento",
+      "system": "",
+      "status": "",
+      "dependencies": [],
+      "wikilinks": [
+        "SYS_WORLD",
+        "SYS_WORLD_OPTIMIZATION",
+        "SYS_PROCEDURAL_ENVIRONMENT"
+      ],
+      "content_length": 1909
+    },
+    {
+      "id": "SYS_ECONOMY",
+      "name": "SYS_ECONOMY",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_INPUT",
+      "name": "SYS_INPUT",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_WORLD",
+      "name": "SYS_WORLD",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_PHONE_GPS",
+      "name": "SYS_PHONE_GPS",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_UI",
+      "name": "SYS_UI",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_MOTORCYCLE",
+      "name": "SYS_MOTORCYCLE",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_MISSIONS",
+      "name": "SYS_MISSIONS",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "NOME_DO_ARQUIVO",
+      "name": "NOME_DO_ARQUIVO",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "...",
+      "name": "...",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "Animator",
+      "name": "Animator",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS-01",
+      "name": "SYS-01",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS-07",
+      "name": "SYS-07",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "TransmissionData",
+      "name": "TransmissionData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS-04",
+      "name": "SYS-04",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "MotorAudioProfile",
+      "name": "MotorAudioProfile",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "Rigidbody",
+      "name": "Rigidbody",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "PartItemData",
+      "name": "PartItemData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "RiderEquipmentData",
+      "name": "RiderEquipmentData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_POLICE",
+      "name": "SYS_POLICE",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "AthlonECUData",
+      "name": "AthlonECUData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_SAVE",
+      "name": "SYS_SAVE",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "IMotorcycleInput",
+      "name": "IMotorcycleInput",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "WheelCollider",
+      "name": "WheelCollider",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "RiderData",
+      "name": "RiderData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_NPC",
+      "name": "SYS_NPC",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS-02",
+      "name": "SYS-02",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS-05",
+      "name": "SYS-05",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_PLAYER",
+      "name": "SYS_PLAYER",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    },
+    {
+      "id": "MotorcycleData",
+      "name": "MotorcycleData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "EngineData",
+      "name": "EngineData",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "CharacterJoint",
+      "name": "CharacterJoint",
+      "type": "external_or_unresolved",
+      "status": "MISSING"
+    },
+    {
+      "id": "SYS_GARAGE",
+      "name": "SYS_GARAGE",
+      "type": "unresolved_link",
+      "status": "MISSING"
+    }
+  ],
+  "edges": [
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_PROCEDURAL_ENVIRONMENT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "FASE_6_GEO_PILOT_01_COMPLETED",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_URBAN_FURNITURE_LIGHTING",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_AUDIO",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_RIDER_EQUIPMENT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_FACADE_DETAILS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_RIDER",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_PLAYER_INTERACTION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "MARCO_A_COMPILATION_STABILIZATION_REPORT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_MAP_STREAMING_INTEGRATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "ADR_004",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WORLD_EVENTS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_PURSUIT_COORDINATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "RELATORIO_IL2CPP_COMPLETO",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ECONOMY",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "GITHUB_MIGRATION_REPORT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "CATALOGO_ASSETS_COMPLETO",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_INPUT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WORLD_STREAMING",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "RELATIONSHIP_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_CITY_MATERIALS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_TRAFFIC_OPTIMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WORLD",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_AUDIO_INTEGRATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_RIDER_ANIMATIONS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_POLICE_HUD",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WORLD_POPULATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_SIMULATED_REWARDS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "GEO_PILOT_03_VALIDATION_REPORT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_INTERACTIVE_ESTABLISHMENTS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_IBGE_FAITHFUL_RECONSTRUCTION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_URBAN_LOTS_BUILDINGS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_CUSTOMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "PLANO_DE_TESTES_FISICOS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_MOBILE_CONTROLS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_POLICE_DISPATCH",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "AGENT_START_HERE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_RIDER_IK",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_POLICE_AI",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_STREET_INFRASTRUCTURE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_POINT_OF_INTEREST",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_RIDER_RAGDOLL",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_AI_DRIVER",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "HANDOFF_PROTOCOL",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "CODING_STANDARDS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "ADR_001",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "PENDENCIAS_E_INFORMACOES_NAO_CONFIRMADAS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "GRAPHIFY_GUIDE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_TRAFFIC_SPAWNING",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_NEIGHBORHOOD_IDENTITY",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_REAL_ROAD_NETWORK",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WANTED_LEVEL",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WORLD_OPTIMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_GEOGRAPHIC_COORDINATES",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "ARAGUARI_GEO_AUDIT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ARAGUARI_GEOGRAPHY",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ENGINE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ROAD_BLOCKAGE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_TRAFFIC_VIOLATIONS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_PHONE_GPS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_TRANSMISSION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_OFFLINE_INITIALIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_MOTORCYCLE_HUD",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_UI",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "FASE_1_PHYSICS_AUDIT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ATHLON",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_MOTORCYCLE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WORKSHOP",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ATHLON_MOBILE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_ENERGY_MANAGEMENT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_GAME_IDENTITY",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_INTERIOR_STREAMING",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_AI_SENSORS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_AI_VEHICLES",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_GAME_LOADING",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_BRAKES",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_SUSPENSION",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "DOCUMENTATION_RULES",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "GEO_PILOT_02_VALIDATION_REPORT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_CAMERA",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_SAVE_SYSTEM",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_POLICE_PURSUIT",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_MISSIONS",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_INDEX",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "README",
+      "target": "GRAPHIFY_GUIDE",
+      "relation": "references"
+    },
+    {
+      "source": "README",
+      "target": "SYSTEM_ARCHITECTURE",
+      "relation": "references"
+    },
+    {
+      "source": "README",
+      "target": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "relation": "references"
+    },
+    {
+      "source": "README",
+      "target": "RELATIONSHIP_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "README",
+      "target": "PROJECT_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "README",
+      "target": "AGENT_START_HERE",
+      "relation": "references"
+    },
+    {
+      "source": "PROJECT_RULES",
+      "target": "PROJECT_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "SYS_WHEELIE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "SYS_BRAKES",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "SYS_SUSPENSION",
+      "relation": "references"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "ADR_002",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "ADR_003",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_1_PHYSICS_AUDIT",
+      "target": "ADR_004",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "PROJECT_INDEX",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "SYS_WHEELIE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "SYS_ENGINE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "SYS_TRANSMISSION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "SYS_CAMERA",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "SYS_RIDER",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "ADR_001",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "ADR_002",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "ADR_003",
+      "relation": "depends_on"
+    },
+    {
+      "source": "FASE_5_PRE_AUDIT_REPORT",
+      "target": "ADR_004",
+      "relation": "depends_on"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "RELATIONSHIP_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "PROJECT_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "SYS_SUSPENSION",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "DOCUMENTATION_RULES",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "HANDOFF_PROTOCOL",
+      "relation": "references"
+    },
+    {
+      "source": "AGENT_START_HERE",
+      "target": "CODING_STANDARDS",
+      "relation": "references"
+    },
+    {
+      "source": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "target": "RELATIONSHIP_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "target": "AGENT_START_HERE",
+      "relation": "references"
+    },
+    {
+      "source": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "target": "CODING_STANDARDS",
+      "relation": "references"
+    },
+    {
+      "source": "CONTEXT_RETRIEVAL_PROTOCOL",
+      "target": "PROJECT_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "DOCUMENTATION_RULES",
+      "target": "NOME_DO_ARQUIVO",
+      "relation": "references"
+    },
+    {
+      "source": "DOCUMENTATION_RULES",
+      "target": "PLANO_DE_TESTES_FISICOS",
+      "relation": "references"
+    },
+    {
+      "source": "GRAPHIFY_GUIDE",
+      "target": "RELATIONSHIP_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "GRAPHIFY_GUIDE",
+      "target": "...",
+      "relation": "references"
+    },
+    {
+      "source": "GRAPHIFY_GUIDE",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "GRAPHIFY_GUIDE",
+      "target": "GRAPH_UPDATE_LOG",
+      "relation": "references"
+    },
+    {
+      "source": "GRAPHIFY_GUIDE",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_PROCEDURAL_ENVIRONMENT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_URBAN_FURNITURE_LIGHTING",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_AUDIO",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_RIDER_EQUIPMENT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "Animator",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS-01",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_FACADE_DETAILS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_RIDER",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS-07",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "TransmissionData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_PLAYER_INTERACTION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_MAP_STREAMING_INTEGRATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS-04",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WORLD_EVENTS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "MotorAudioProfile",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_PURSUIT_COORDINATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ECONOMY",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "Rigidbody",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_INPUT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WORLD_STREAMING",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "PartItemData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_CITY_MATERIALS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_TRAFFIC_OPTIMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WORLD",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_AUDIO_INTEGRATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "RiderEquipmentData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_POLICE_HUD",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_RIDER_ANIMATIONS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_POLICE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "AthlonECUData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WORLD_POPULATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_SIMULATED_REWARDS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_INTERACTIVE_ESTABLISHMENTS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_SAVE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_IBGE_FAITHFUL_RECONSTRUCTION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_URBAN_LOTS_BUILDINGS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "IMotorcycleInput",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_CUSTOMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_MOBILE_CONTROLS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_POLICE_DISPATCH",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "WheelCollider",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "RiderData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "AGENT_START_HERE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_RIDER_IK",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "FASE_5_PRE_AUDIT_REPORT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_POLICE_AI",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_STREET_INFRASTRUCTURE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_POINT_OF_INTEREST",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_RIDER_RAGDOLL",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "ANALISE_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_AI_DRIVER",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_NPC",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS-02",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_TRAFFIC_SPAWNING",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_NEIGHBORHOOD_IDENTITY",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_REAL_ROAD_NETWORK",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS-05",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WANTED_LEVEL",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WORLD_OPTIMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_GEOGRAPHIC_COORDINATES",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ARAGUARI_GEOGRAPHY",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ENGINE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_PLAYER",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ROAD_BLOCKAGE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_TRAFFIC_VIOLATIONS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_PHONE_GPS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_TRANSMISSION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_OFFLINE_INITIALIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_MOTORCYCLE_HUD",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_UI",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "FASE_1_PHYSICS_AUDIT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ATHLON",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "MotorcycleData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_MOTORCYCLE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WORKSHOP",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ATHLON_MOBILE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_ENERGY_MANAGEMENT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_GAME_IDENTITY",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_INTERIOR_STREAMING",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_AI_SENSORS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_AI_VEHICLES",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "EngineData",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_GAME_LOADING",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_BRAKES",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "CharacterJoint",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_SUSPENSION",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_CAMERA",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_GARAGE",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_SAVE_SYSTEM",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "PROJECT_INDEX",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_POLICE_PURSUIT",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_MISSIONS",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "ADR_004",
+      "relation": "references"
+    },
+    {
+      "source": "RELATIONSHIP_INDEX",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ATHLON",
+      "target": "SYS_ENGINE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ATHLON",
+      "target": "SYS_AUDIO",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ATHLON",
+      "target": "AthlonECUData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ATHLON",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ATHLON",
+      "target": "ANALISE_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ATHLON_MOBILE",
+      "target": "SYS_ATHLON",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ATHLON_MOBILE",
+      "target": "SYS_INPUT",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ATHLON_MOBILE",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_AUDIO",
+      "target": "SYS_ENGINE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_AUDIO",
+      "target": "SYS_TRANSMISSION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_AUDIO",
+      "target": "SYS_ATHLON",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_AUDIO",
+      "target": "MotorAudioProfile",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_AUDIO",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_AUDIO",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_AUDIO_INTEGRATION",
+      "target": "SYS_AUDIO",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_AUDIO_INTEGRATION",
+      "target": "SYS_ATHLON",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_AUDIO_INTEGRATION",
+      "target": "SYS_ENGINE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_AUDIO_INTEGRATION",
+      "target": "SYS_POLICE_PURSUIT",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS-01",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS-04",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS-07",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS_SUSPENSION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS_INPUT",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_BRAKES",
+      "target": "SYS_MOTORCYCLE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_CAMERA",
+      "target": "SYS_MOTORCYCLE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CAMERA",
+      "target": "SYS_WHEELIE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CAMERA",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CAMERA",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_CUSTOMIZATION",
+      "target": "SYS_WORKSHOP",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CUSTOMIZATION",
+      "target": "SYS_ENGINE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CUSTOMIZATION",
+      "target": "SYS_TRANSMISSION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CUSTOMIZATION",
+      "target": "SYS_SUSPENSION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_CUSTOMIZATION",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_CUSTOMIZATION",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "SYS_TRANSMISSION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "SYS_ATHLON",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "EngineData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ENGINE",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_POLICE_DISPATCH",
+      "target": "SYS_POLICE_AI",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_POLICE_DISPATCH",
+      "target": "SYS_WORLD_EVENTS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_POLICE_DISPATCH",
+      "target": "SYS_AI_VEHICLES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_POLICE_DISPATCH",
+      "target": "SYS_POLICE_PURSUIT",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PURSUIT_COORDINATION",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PURSUIT_COORDINATION",
+      "target": "SYS_POLICE_AI",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PURSUIT_COORDINATION",
+      "target": "SYS_POLICE_DISPATCH",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PURSUIT_COORDINATION",
+      "target": "SYS_POLICE_PURSUIT",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PURSUIT_COORDINATION",
+      "target": "SYS_WANTED_LEVEL",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER",
+      "target": "SYS_MOTORCYCLE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER",
+      "target": "SYS_WHEELIE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER",
+      "target": "RiderData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER_ANIMATIONS",
+      "target": "SYS_RIDER",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER_ANIMATIONS",
+      "target": "SYS_WHEELIE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_ANIMATIONS",
+      "target": "RiderData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_EQUIPMENT",
+      "target": "SYS_RIDER",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_EQUIPMENT",
+      "target": "SYS_WORKSHOP",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_EQUIPMENT",
+      "target": "RiderEquipmentData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_EQUIPMENT",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER_IK",
+      "target": "SYS_RIDER",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER_IK",
+      "target": "Animator",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_RAGDOLL",
+      "target": "SYS_RIDER",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_RIDER_RAGDOLL",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_RAGDOLL",
+      "target": "CharacterJoint",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_RIDER_RAGDOLL",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_SAVE_SYSTEM",
+      "target": "SYS_WORKSHOP",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_SAVE_SYSTEM",
+      "target": "SYS_ATHLON",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_SAVE_SYSTEM",
+      "target": "SYS_ECONOMY",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_SAVE_SYSTEM",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "SYS-07",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "WheelCollider",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "SYS_CUSTOMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_SUSPENSION",
+      "target": "SYS_BRAKES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ROAD_BLOCKAGE",
+      "target": "SYS_WORLD_EVENTS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ROAD_BLOCKAGE",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_ROAD_BLOCKAGE",
+      "target": "SYS_AI_VEHICLES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_TRANSMISSION",
+      "target": "SYS_ENGINE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_TRANSMISSION",
+      "target": "TransmissionData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_TRANSMISSION",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_TRANSMISSION",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_TRANSMISSION",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOBILE_CONTROLS",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOBILE_CONTROLS",
+      "target": "SYS_INPUT",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOBILE_CONTROLS",
+      "target": "SYS_ATHLON_MOBILE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOBILE_CONTROLS",
+      "target": "SYS_BRAKES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOTORCYCLE_HUD",
+      "target": "SYS_TRANSMISSION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOTORCYCLE_HUD",
+      "target": "SYS_ATHLON",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOTORCYCLE_HUD",
+      "target": "SYS_WHEELIE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOTORCYCLE_HUD",
+      "target": "SYS_ENGINE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_MOTORCYCLE_HUD",
+      "target": "SYS_CAMERA",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "SYS-02",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "SYS-04",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "SYS-05",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "SYS-07",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "Rigidbody",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "MotorcycleData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "IMotorcycleInput",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "ADR_004",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "FORMULAS_FISICA_MOTOS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "MAPEAMENTO_FISICA_MOTOCICLETAS",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "ADR_002",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WHEELIE",
+      "target": "SYS_BRAKES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORKSHOP",
+      "target": "SYS_CUSTOMIZATION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WORKSHOP",
+      "target": "SYS_ENGINE",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WORKSHOP",
+      "target": "SYS_TRANSMISSION",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WORKSHOP",
+      "target": "PartItemData",
+      "relation": "depends_on"
+    },
+    {
+      "source": "SYS_WORKSHOP",
+      "target": "ADR_003",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PROCEDURAL_ENVIRONMENT",
+      "target": "SYS_WORLD_STREAMING",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PROCEDURAL_ENVIRONMENT",
+      "target": "SYS_WORLD",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_PROCEDURAL_ENVIRONMENT",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_EVENTS",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_EVENTS",
+      "target": "SYS_POLICE_DISPATCH",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_EVENTS",
+      "target": "SYS_AI_VEHICLES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_EVENTS",
+      "target": "SYS_ROAD_BLOCKAGE",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_OPTIMIZATION",
+      "target": "SYS_WORLD_STREAMING",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_OPTIMIZATION",
+      "target": "SYS_WORLD",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_OPTIMIZATION",
+      "target": "SYS_TRAFFIC_OPTIMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_POPULATION",
+      "target": "SYS_WORLD",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_POPULATION",
+      "target": "SYS_TRAFFIC_NAVIGATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_POPULATION",
+      "target": "SYS_AI_VEHICLES",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_STREAMING",
+      "target": "SYS_WORLD",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_STREAMING",
+      "target": "SYS_WORLD_OPTIMIZATION",
+      "relation": "references"
+    },
+    {
+      "source": "SYS_WORLD_STREAMING",
+      "target": "SYS_PROCEDURAL_ENVIRONMENT",
+      "relation": "references"
+    }
+  ]
+}
